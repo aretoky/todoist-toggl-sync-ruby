@@ -1,0 +1,9 @@
+/.bundle
+/.idea
+
+/Gemfile.lock
+/todoist-toggl-sync-ruby.iml
+
+/vendor
+
+/config.yml
